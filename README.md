@@ -15,7 +15,7 @@ lei.tian@colorado.edu
 
 
 # Current Funding
-Yes, Prof Qin Lv. NSF
+I am funded by Prof Qin Lv. from NSF CSF grant.
 
 # PhD Program
 
@@ -23,16 +23,20 @@ Yes, Prof Qin Lv. NSF
 Prof Qin Lv
 
 ## Committee
-
+Prof Qin Lv
+Prof Richard Han
+Prof Shivakant Mishra
+Prof Sangtae Ha
+Dr David Chu
 
 ## Milestones
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | {Fall} {2010}     |                   |
+| Area Exam            | {Fall} {2013}     |                   |
+| Proposal Defense     |                   | {Spring} {2015}   |
+| Dissertation Defense |                   | {Fall} {2015}     |
 
 ## Courses
 
@@ -48,10 +52,25 @@ Prof Qin Lv
 # Research
 
 ## Publications
-
-
-* MVChat: Flasher Detection for Mobile Video Chat (Demo)
-* Lei	 Tian,	 Junho	 Ahn	(University of Colorado at Boulder),	 Hanqiang	 Cheng	(McGill University)	 Xinyu	 Xing	(Georgia Institute of Technology),	 Yuli	 Liang, Richard Han, Qin Lv,	 Shivakant	 Mishra	(University of Colorado at Boulder),	 David Chu	(Microsoft Research),	 Xue	 Liu	(McGill University), Mobisys 2012
+* Lei Tian, Rahat Raq, Shaosong Li, David Chu, Richard Han, Qin Lv, Shivakant
+Mishra. Multi-modal Fusion for Flasher Detection in a Mobile Video Chat
+Application. In Proceedings of the 11th International Conference on Mobile and Ubiq-
+uitous Systems: Computing, Networking and Services (Mobiquitous 2014), Dec, 2014.
+* Lei Tian, Shaosong Li, Junho Ahn, David Chu, Richard Han, Qin Lv, Shivakant Mishra.
+Understanding User Behavior at Scale in a Mobile Video Chat Application.
+In Proceedings of the 2013 ACM International Joint Conference on Pervasive and Ubiquitous 
+Computing (Ubicomp 2013), Sep, 2013.
+* Lei Tian, Junho Ahn, Hanqiang Cheng, Xinyu Xing, Yuli Liang, Richard Han, Qin Lv,
+Shivakant Mishra, David Chu, Xue Liu. MVChat: Flasher Detection for Mobile
+Video Chat. In Proceedings of the 10th International Conference on Mobile System,
+Application and Services (Mobisys 2012), Demon Session, Jun, 2012
+* Yifei Jiang, Kun Li, Lei Tian, Ricardo Piedrahita, Xiang Yun, Omkar Mansata, Qin
+Lv, Robert Dick, Michael Hannigan, Li Shang. MAQS: A Personalized Mobile
+Sensing System for Indoor Air Quality Monitoring. In Proceedings of the 13th
+International Conference on Ubiquitous Computing (Ubicomp 2011), Sep, 2011.
+* Yifei Jiang, Kun Li, Lei Tian, Ricardo Piedrahita, Xiang Yun, Omkar Mansata, Qin
+Lv, Robert Dick, Michael Hannigan, Li Shang. User-Centrict Inddor Air Quality
+Monitoring on Mobile Devices. AI Magazine 2013.
 
 
 ## Presentations
@@ -61,19 +80,13 @@ Prof Qin Lv
 * {what,where,when} [pptx](files/presentation-file.pptx)
       
 ## Awards
-
+Dean's Outstanding Meric Fellowship, 2010
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
 
 # Service
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
 
 # Highlights
 
