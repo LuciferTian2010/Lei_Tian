@@ -9,7 +9,7 @@ Lei Tian
 lei.tian@colorado.edu
 
 ## Photo
-![profile photo](files/)
+![profile photo](files/photo.JPG)
 
 ## Website
 
