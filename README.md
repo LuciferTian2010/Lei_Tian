@@ -42,12 +42,23 @@ Dr David Chu
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {CSCI 5273} {Network Systems} | {Fall} {2010} |   | {no} | {yes}|
+| {CSCI 6000} {Intro CSCI PhD Program} | {Fall} {2010} |  | {yes} | {no}|
+| {CSCI 7000} {Systems and Algorithms for Massive Data Applications} | {Fall} {2010} |  | {yes} | {no}|
+| {CSCI 5448} {Object-Oriented Analysis & Design} | {Spring} {2011} |  | {no} | {yes}|
+| {CSCI 7000} {Data Mining} | {Spring} {2011} |  | {yes} | {no}|
+| {CSCI 5229} {Computer Graphics} | {Fall} {2011} |  | {no} | {yes}|
+| {CSCI 5417} {Information Retrieval Systems} | {Fall} {2011} |  | {no} | {yes}|
+| {CSCI 5454} {Design and Analysis of Algorithms} | {Spring} {2012} |  | {no} | {yes}|
+| {CSCI 5753} {Computer Performance Modeling} | {Spring} {2012} |  | {no} | {yes}|
+| {CSCI 7222} {Probabilistic Models of Human and Artificial Intelligence} | {Fall} {2012} |  | {yes} | {no}|
+| {CSCI 7900} {Doctor’s Level Independent Study} | {Fall} {2012} |  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} | {Spring} {2013} |  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} | {Fall} {2013} |  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} | {Spring} {2014} |  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} | {Fall} {2014} |  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} |  | {Spring} {2015}  | {yes} | {no}|
+| {CSCI 8990} {Doctoral Dissertation} |  | {Fall} {2015}  | {yes} | {no}|
 
 # Research
 
