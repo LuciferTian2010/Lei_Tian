@@ -20,14 +20,14 @@ I am funded by Prof Qin Lv. from NSF CSF grant.
 # PhD Program
 
 ## Thesis Advisor
-Prof Qin Lv
+- Prof Qin Lv
 
 ## Committee
-Prof Qin Lv
-Prof Richard Han
-Prof Shivakant Mishra
-Prof Sangtae Ha
-Dr David Chu
+- Prof Qin Lv
+- Prof Richard Han
+- Prof Shivakant Mishra
+- Prof Sangtae Ha
+- Dr David Chu
 
 ## Milestones
 
