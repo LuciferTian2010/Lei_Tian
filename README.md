@@ -86,9 +86,8 @@ Monitoring on Mobile Devices. AI Magazine 2013.
 
 ## Presentations
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
+* {Understanding User Behavior at Scale
+in a Mobile Video Chat Application,Ubicomp 2014, Sep,2014} [pptx](files/Ubicomp_slide.pptx)
       
 ## Awards
 Dean's Outstanding Meric Fellowship, 2010
